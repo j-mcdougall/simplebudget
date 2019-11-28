@@ -1,5 +1,6 @@
 # simplebudget
 A Simple Budgeting program using the envelope system
+
 Why Simple Budget?
 
 Simple Budget was created out of a frustration of trying to find a simple “envelope” method budgeting program that would carry over from month to month. From simple to elaborate, I could not find something that suits my needs so I created Simple Budget.
