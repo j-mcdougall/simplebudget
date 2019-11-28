@@ -1,4 +1,5 @@
 # simplebudget
+
 A Simple Budgeting program using the envelope system
 
 Why Simple Budget?
