@@ -22,3 +22,7 @@ What it does do:\
 – It is free. Use at your own risk, It is a work in progress.\
 
 I created Simple Budget for my own use.  If you find bugs, I would love to know about them. If you have an idea for a feature or a suggestion of how to do something better, I welcome it.  I created Simple Budget for myself,  and decided maybe someone else could benefit from it also. If you want to troll me, go write your own program.
+
+## Windows
+
+Download the installation program and run it.  The install program will ask you where you want the files.  Select a folder where you would like them to go.  Run "simplebudget.exe" from that folder.  The first time Simple Budget is ran, it will create a data folder named "simplebudget" under the user's profile directory.
