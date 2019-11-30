@@ -8,6 +8,8 @@ Simple Budget was written because I wanted a very simple way of keeping track of
 
 Here is a list of NON-features:\
 – It does not have any bells and whistles.\
+– It is not “internationalized” and uses the “$”.\
+– Since I wrote if for myself, it is in “English”.\
 – It does not encrypt its data file.\
 – It does not access the Internet.\
 – You can not access it on-line.\
