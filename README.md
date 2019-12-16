@@ -28,6 +28,8 @@ I created Simple Budget for my own use.  If you find bugs, I would love to know 
 ## Linux
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/simplebudget)
+- If you can not print the reports, run the following command in a terminal session:
+- sudo snap connect simplebudget:cups-control :cups-control
 
 ## Windows
 
