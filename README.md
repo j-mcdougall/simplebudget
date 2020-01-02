@@ -34,3 +34,8 @@ I created Simple Budget for my own use.  If you find bugs, I would love to know 
 ## Windows
 
 Click on the latest version of the Windows install and click "Download".  Run the installation program.  The install program will ask you where you want the files.  The default location is in a folder called "Simple Budget" under "Program Files".  Select a folder where you would like them to go.  Run "simplebudget.exe" from that folder.  The first time Simple Budget is ran, it will create a data folder named "simplebudget" under the user's profile directory.  This is where Simple Budget will store its data files.
+
+## Change Log
+
+View the change log here:\
+[![View the change log here](http://simplebudget.mcdougallshome.net/change-log/)](http://simplebudget.mcdougallshome.net/change-log/)
