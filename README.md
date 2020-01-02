@@ -37,5 +37,4 @@ Click on the latest version of the Windows install and click "Download".  Run th
 
 ## Change Log
 
-View the change log here:\
 [![View the change log here](http://simplebudget.mcdougallshome.net/change-log/)](http://simplebudget.mcdougallshome.net/change-log/)
