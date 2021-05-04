@@ -6,7 +6,7 @@ Simple Budget was created out of a frustration of trying to find a simple “env
 
 Simple Budget was written because I wanted a very simple way of keeping track of my expenses and savings from month to month.
 
-What it Simple Budget does:\
+What Simple Budget does:\
 – Keeps track of your spending.\
 – Allows you to track your saving for a budget fund month to month using the "envelope" type system.\
 – It is easy.\
